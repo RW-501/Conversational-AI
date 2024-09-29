@@ -1,0 +1,6 @@
+firebase-admin
+Flask
+nltk
+PyPDF2
+pdfplumber
+python-docx
